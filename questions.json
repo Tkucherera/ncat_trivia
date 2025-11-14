@@ -1,0 +1,397 @@
+
+{
+    "categories": {
+        "1": {
+            "name": "General Knowledge",
+            "questions": [
+                    {
+                        "question": "In what year was N.C. A&T founded?",
+                        "choises": [1880, 1885, 1891, 1901],
+                        "answer": 2
+                    },
+                    {
+                        "question": "What is the mascot of N.C. A&T?",
+                        "choises": ["Aggie Bulldog", "Aggie Bear", "Aggie Lion", "Aggie Tiger"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "What are the official school colors of N.C. A&T?",
+                        "choises": ["Blue & Gold", "Green & White", "Red & Silver", "Black & Orange"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "What is the motto of N.C. A&T (‘Mind and Hand’ in Latin)?",
+                        "choises": ["Mens et Manus", "Veritas et Virtus", "Scientia et Labor", "Lux et Veritas"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "N.C. A&T is located in which city?",
+                        "choises": ["Raleigh, NC", "Greensboro, NC", "Charlotte, NC", "Durham, NC"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "N.C. A&T is the largest historically-black university (HBCU) in the U.S. for how many consecutive years?",
+                        "choises": [5, 7, 10, 12],
+                        "answer": 2
+                    },
+                    {
+                        "question": "What is the campus acreage of N.C. A&T’s main site as cited in its Fast Facts?",
+                        "choises": [150, 188, 200, 330],
+                        "answer": 1
+                    },
+                    {
+                        "question": "How many undergraduate degree programs does N.C. A&T offer (approximate, as of the Fast Facts)?",
+                        "choises": [40, 54, 70, 100],
+                        "answer": 1
+                    },
+                    {
+                        "question": "How many doctoral degree programs does N.C. A&T offer (approximate, as of Fast Facts)?",
+                        "choises": [5, 11, 20, 30],
+                        "answer": 1
+                    },
+                    {
+                        "question": "Which of these is *not* a college within N.C. A&T?",
+                        "choises": ["College of Engineering", "College of Agriculture & Environmental Sciences", "College of Medicine", "College of Education"],
+                        "answer": 2
+                    },
+                    {
+                        "question": "Which act led to the establishment of N.C. A&T under the land-grant act for people of color in North Carolina?",
+                        "choises": ["Morrill Act of 1862", "Morrill Act of 1890", "Smith-Hughes Act", "Higher Education Act of 1965"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What phone number is listed as the main contact for N.C. A&T’s campus?",
+                        "choises": ["(336) 334-7500", "(919) 334-7500", "(336) 334-0000", "(919) 334-0000"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which of the following best describes N.C. A&T’s research classification?",
+                        "choises": ["Primary undergraduate institution", "Master’s college", "High-research activity doctoral university", "Community college"],
+                        "answer": 2
+                    },
+                    {
+                        "question": "N.C. A&T has issued how many patents (approximate) based on its research?",
+                        "choises": [10, 30, 66, 100],
+                        "answer": 2
+                    },
+                    {
+                        "question": "Which of these is a distinguishing achievement: N.C. A&T is the #1 producer of African-American graduates in what fields in North Carolina?",
+                        "choises": ["Business & Law", "Engineering & Agriculture", "Health & Medicine", "Arts & Education"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What is the street address of N.C. A&T’s main campus?",
+                        "choises": ["1601 E. Market St.", "500 College Ave.", "1 Aggie Ln.", "400 Campus Dr."],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Approximately how many alumni does N.C. A&T have (70,000+ as of the website)?",
+                        "choises": [50000, 60000, 70000, 80000],
+                        "answer": 2
+                    },
+                    {
+                        "question": "What is the average starting salary within three years of graduation (approximate) for N.C. A&T alumni as reported?",
+                        "choises": ["$45K", "$50K", "$55K", "$60K"],
+                        "answer": 2
+                    },
+                    {
+                        "question": "What year did N.C. A&T celebrate its 130th anniversary (given that it was founded in 1891)?",
+                        "choises": [2019, 2020, 2021, 2022],
+                        "answer": 0
+                    },
+                    {
+                        "question": "N.C. A&T is accredited as a land-grant institution. What entity generally grants land-grant status in the U.S.?",
+                        "choises": ["State legislature", "Federal government under Morrill Acts", "Private foundation", "City government"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What is the name of the clock/campanile tower on the N.C. A&T campus named after alumni Willie A. & Carrol C. Deese?",
+                        "choises": ["Deese Clock Tower", "Aggie Bell Tower", "Market Street Tower", "Campus Campanile"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which campus building or facility is noted for being LEED Silver certified and the university’s first completely green facility?",
+                        "choises": ["Student Health Center", "Library", "Engineering Research Center", "Science Building"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "In Fall 2021-22, what was the total enrollment of N.C. A&T (approximate)?",
+                        "choises": [10000, 12000, 13300, 15000],
+                        "answer": 2
+                    },
+                    {
+                        "question": "The nickname of the N.C. A&T athletic teams is the “Aggies.” Which of these fields a team at N.C. A&T?",
+                        "choises": ["Rugby", "Football", "Cricket", "Ice hockey"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "N.C. A&T is located in which U.S. state?",
+                        "choises": ["South Carolina", "Virginia", "North Carolina", "Georgia"],
+                        "answer": 2
+                    },
+                    {
+                        "question": "Which year did the Greensboro sit-in protests involving N.C. A&T students begin?",
+                        "choises": [1958, 1960, 1962, 1964],
+                        "answer": 1
+                    },
+                    {
+                        "question": "N.C. A&T operates under what classification (public vs. private)?",
+                        "choises": ["Private", "Public", "For-profit", "Community college"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What phone area code is used by N.C. A&T’s main campus location?",
+                        "choises": ["(919)", "(336)", "(704)", "(828)"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "Which U.S. Department declared N.C. A&T the #1 producer of African-American undergraduates in engineering and agriculture?",
+                        "choises": ["Dept. of Education", "Dept. of Agriculture", "Dept. of Commerce", "Dept. of Labor"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which of these statements is true about N.C. A&T’s student body demographics in a recent year (male vs female)?",
+                        "choises": ["More males than females", "More females than males", "Equal males and females", "No female students"],
+                        "answer": 1
+                    }
+                ]
+
+        },
+        "2": {
+            "name": "CDSE Department", 
+            "questions": [
+                {
+                    "question": "What degrees does the CDSE department offer?",
+                    "choises": ["B.S.", "M.S. and Ph.D.", "Ph.D. only", "M.S. only"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which of the following is listed as a research focus of the CDSE department?",
+                    "choises": ["Classical Literature Analysis", "High-performance computing", "Marine Biology", "Nanotechnology fabrication"],
+                    "answer": 1
+                },
+                {
+                    "question": "Access to what type of visualization system is offered to CDSE students?",
+                    "choises": ["2-D wall projection", "Immersive 20-foot 3D visualization", "Hand-held VR headsets only", "None of the above"],
+                    "answer": 1
+                },
+                {
+                    "question": "True or False: The CDSE department admits students only with a background in computer science.",
+                    "choises": [true, false],
+                    "answer": 1
+                },
+                {
+                    "question": "How many affiliated faculty from other departments across campus does the CDSE department’s site mention?",
+                    "choises": [10, 20, 40, 100],
+                    "answer": 2
+                },
+                 {
+                    "question": "Which course is listed as a core course for the MS in Data Science & Engineering program at CDSE?",
+                    "choises": ["CSE 620 Introduction to Computational Software Tools", "CSE 702 Computational Methods for Algebraic Systems", "CSE 805 Machine Learning and Data Mining", "CSE 801 Computational Statistics"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which of the following is *not* listed under the 'Other graded CSE Courses' section on the CDSE page?",
+                    "choises": ["CSE 817 Fundamentals of Big Data Analysis", "CSE 803 High-Performance and Scalable Computing", "CSE 720 Research Computing Environments", "CSE 701 Applied Probability and Statistics"],
+                    "answer": 0
+                },
+                {
+                    "question": "For the PhD in Computational Data Science & Engineering program, which is one of the four core courses listed?",
+                    "choises": ["CSE 708 Data Analytics and Engineering Applications", "CSE 704 Data Processing and Visualization", "CSE 802 Computational Methods for Differential Equations", "CSE 804 Computational Modeling and Visualization"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which course is shared in both the MS core list and the 'Other graded CSE Courses' list?",
+                    "choises": ["CSE 620 Introduction to Computational Software Tools", "CSE 703 Programming for Scalable Computing Systems", "CSE 750 Concepts in Computational Data Science & Engineering", "CSE 826 Modeling and Simulation of Physical Systems"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which course discusses data visualization as indicated by its title in the CDSE course list?",
+                    "choises": ["CSE 704 Data Processing and Visualization", "CSE 804 Computational Modeling and Visualization", "Both A and B", "Neither"],
+                    "answer": 2
+                },
+                {
+                    "question": "What minimum GPA is required for admission to the MS in Data Science & Engineering program as per CDSE’s site?",
+                    "choises": ["3.00", "3.25", "3.50", "2.75"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which of these is a course listed under 'Other graded CSE Courses' that focuses on Machine Learning?",
+                    "choises": ["CSE 805 Machine Learning and Data Mining", "CSE 720 Research Computing Environments", "CSE 817 Fundamentals of Big Data Analysis", "CSE 803 High-Performance and Scalable Computing"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which of these courses is listed in the PhD core list, according to the CDSE page?",
+                    "choises": ["CSE 702 Computational Methods for Algebraic Systems", "CSE 708 Data Analytics and Engineering Applications", "CSE 750 Concepts in Computational Data Science & Engineering", "CSE 801 Computational Statistics"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which category includes 'CSE 799 Continuation of Master’s Thesis' in the CDSE listing?",
+                    "choises": ["MS Core Courses", "PhD Core Courses", "Other graded CSE Courses", "Other CSE Courses"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which course listed under 'Other graded CSE Courses' appears to involve Modeling & Simulation of Physical Systems?",
+                    "choises": ["CSE 816 Concepts in Multi-Scale and Multi-Physics Modeling", "CSE 802 Computational Methods for Differential Equations", "CSE 720 Research Computing Environments", "CSE 750 Concepts in Computational Data Science & Engineering"],
+                    "answer": 0
+                }
+            ]
+        },
+        "3": {
+            "name": "History",
+            "questions": [
+                    {
+                        "question": "In what year was N.C. A&T founded (as the Agricultural and Mechanical College for the Colored Race)?",
+                        "choises": [1885, 1891, 1893, 1901],
+                        "answer": 1
+                    },
+                    {
+                        "question": "At which institution were the first classes of N.C. A&T held?",
+                        "choises": ["Shaw University", "UNC-Chapel Hill", "Dudley High School", "North Carolina State University"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "How many students were in the first session of the college in fall 1891?",
+                        "choises": [20, 37, 50, 75],
+                        "answer": 1
+                    },
+                    {
+                        "question": "In what year did the college move to Greensboro, North Carolina?",
+                        "choises": [1892, 1893, 1900, 1915],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What land and cash donation did Greensboro citizens provide for the move?",
+                        "choises": ["10 acres & $8,000", "14 acres & $11,000", "20 acres & $5,000", "25 acres & $15,000"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "In what year was the institution first renamed to the Agricultural and Technical College of North Carolina?",
+                        "choises": [1915, 1925, 1939, 1967],
+                        "answer": 0
+                    },
+                    {
+                        "question": "In what year did N.C. A&T grant its first bachelor’s degrees?",
+                        "choises": [1918, 1925, 1928, 1930],
+                        "answer": 1
+                    },
+                    {
+                        "question": "In what year was the college authorized to begin offering graduate (Master’s) degrees?",
+                        "choises": [1939, 1941, 1953, 1960],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which of these best describes the original admissions policy when the college was founded in 1891?",
+                        "choises": ["Men only", "Women only", "Co-educational", "Graduate students only"],
+                        "answer": 2
+                    },
+                    {
+                        "question": "In what year were female students once again admitted after a period of male-only admission?",
+                        "choises": [1901, 1928, 1946, 1960],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What major civil rights action involving N.C. A&T students occurred on February 1, 1960?",
+                        "choises": ["March on Washington", "Lunch-counter sit-in at a Woolworth’s in Greensboro", "Student strike", "Campus building takeover"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What informal name is given to the four freshmen from N.C. A&T who sparked the 1960 sit-in?",
+                        "choises": ["The Greensboro Four", "The A&T Four", "The Aggie Four", "The Sit-In Four"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "In what year did the institution change its name to \"North Carolina Agricultural and Technical State University\"?",
+                        "choises": [1960, 1967, 1971, 1972],
+                        "answer": 1
+                    },
+                    {
+                        "question": "In what year did N.C. A&T become a member of the University of North Carolina system?",
+                        "choises": [1971, 1972, 1975, 1980],
+                        "answer": 0
+                    },
+                    {
+                        "question": "In what year was the A&T campus’s historic district listed in the U.S. National Register of Historic Places?",
+                        "choises": [1980, 1985, 1988, 1992],
+                        "answer": 2
+                    },
+                    {
+                        "question": "What major enrollment milestone did N.C. A&T reach around 2018, making it the largest HBCU in the U.S.?",
+                        "choises": ["10,000 students", "11,000 students", "12,000 students", "13,000 students"],
+                        "answer": 2
+                    },
+                    {
+                        "question": "Which federal legislative act prompted the founding of land-grant institutions for Black students, of which N.C. A&T was one?",
+                        "choises": ["Morrill Act of 1862", "Morrill Act of 1890", "Smith-Hughes Act", "Higher Education Act of 1965"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "Who was the first president of N.C. A&T (then A&M College) elected in 1892?",
+                        "choises": ["John O. Crosby", "F. D. Bluford", "Lewis C. Dowdy", "Harold L. Martin"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Under whose presidency did the institution significantly expand academic programs and campus buildings in the 1920s-30s?",
+                        "choises": ["John O. Crosby", "F. D. Bluford", "Lewis C. Dowdy", "Harold L. Martin"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "In what year did the college add its first doctoral programs (making it a full research institution)?",
+                        "choises": [1994, 2004, 2015, 2018],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which organization’s national science experiment did N.C. A&T’s Cooperative Extension jointly create as the first 1890 institution?",
+                        "choises": ["4-H National Science Experiment", "Future Farmers of America", "Black Engineers Association", "National Science Foundation Outreach"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "What was the original acreage that Greensboro citizens donated when the campus relocated there?",
+                        "choises": [10, 14, 20, 25],
+                        "answer": 1
+                    },
+                    {
+                        "question": "What was the original cash donation amount from Greensboro citizens for the move to Greensboro?",
+                        "choises": [8000, 10000, 11000, 12000],
+                        "answer": 2
+                    },
+                    {
+                        "question": "Which year did the institution change the admissions policy to males only (temporarily)?",
+                        "choises": [1901, 1904, 1915, 1925],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which era of the campus history is associated with 1891-1930 according to the university's official timeline?",
+                        "choises": ["Founding Years", "Growth & Expansion", "Civil Rights Era", "Modern Era"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which era of the campus history is associated with 1930–1960 in the university’s timeline?",
+                        "choises": ["Founding Years", "Growth & Expansion", "Civil Rights Era", "Modern Era"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "Which of these buildings is part of the historic district designated in 1988 at N.C. A&T?",
+                        "choises": ["Dudley Memorial Building", "Ellis F. Corbett Sports Center", "Truist Stadium", "Student Union"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "Which major civil rights event after 1960 involved N.C. A&T students and the National Guard in Greensboro in May 1969?",
+                        "choises": ["A&T sit-in", "Greensboro uprising", "March on Washington", "Freedom Rides stopover"],
+                        "answer": 1
+                    },
+                    {
+                        "question": "Approximately in what year did N.C. A&T receive its largest single-donor gift ($45 million) in its history?",
+                        "choises": [2016, 2018, 2020, 2022],
+                        "answer": 2
+                    },
+                    {
+                        "question": "What year did the college achieve designation as a “Regional University” and adopt the name N.C. Agricultural & Technical State University?",
+                        "choises": [1960, 1965, 1967, 1970],
+                        "answer": 2
+                    }
+                ]
+        }
+
+    }
+}
