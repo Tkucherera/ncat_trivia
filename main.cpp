@@ -19,7 +19,8 @@
         short start;
 
         void display_title() {
-            cout << "Welcome to the Trivia Game!" << endl << endl << endl;
+            cout << endl << endl;
+            cout << "Welcome to the NC A&T Trivia Game!" << endl << endl << endl;
         }
 
         void show_options() {
@@ -33,6 +34,7 @@
 
             cout << "Are you ready to start? 1 to start 0 to close: ";
             cin >> start;
+            cout << endl;
 
             if (start == 1) {
                 start_game();
@@ -112,7 +114,7 @@ class Player {
     Player(string n) : name(n), score(0) {}
 
     void displayInfo() const {
-        cout << name << ":  " << score << endl;
+        cout << "            " << name << ":  " << score << endl;
     }
 };
 
@@ -123,14 +125,16 @@ class LeaderBoard {
         vector<Player> playerScores;
 
         void init(int numPlayers) {
-            for (int c=1; c <= numPlayers; ++c ){
-                string playerName = "player" + to_string(c + 1);
+            for (int c=1; c <= numPlayers; c++ ){
+                string playerName = "player" + to_string(c);
+
                 playerScores.emplace_back(playerName);
             }
         }
 
         void update_score(int player){
-            playerScores[player].score += 10;
+            // because vectors are zero indexed need to move back
+            playerScores[player-1].score += 10;
         }
 
 
@@ -147,11 +151,11 @@ class LeaderBoard {
                 return a.score > b.score; // highest score first
             });
 
-            cout << "Leaderboard:" << endl;
+            cout << "          Leaderboard:" << endl;
 
             int rank = 1;
             for (const auto& p : sorted) {
-                cout << rank++ << ". ";
+                // cout << rank++ << ". ";
                 p.displayInfo();
             }
         }
@@ -189,7 +193,7 @@ class LeaderBoard {
             for (int round = 1; round <= numRounds; ++round){
                 cout << "round " << round << endl;
                 cout << endl;
-                for (int player = 1; player <= numPlayers; ++player){
+                for (int player = 1; player <= numPlayers; player++){
                     // Grab a qustion for player 
                     // will add logi fo uniquenes later 
                     cout << "Player " << player << endl;
@@ -200,10 +204,14 @@ class LeaderBoard {
                     for (int i = 0; i< data[qIndex]["choises"].size(); ++i){
                         cout << i << ": " << data[qIndex]["choises"][i] << endl;
                     }
-                    cout << "Your answer: ";
+                    cout << "Enter your Answer: ";
                     cin >> response;
                     if (response == data[qIndex]["answer"]){
+                        cout << "Your answer: "  << response << " Correct " << endl;
                         leaderboard.update_score(player);
+                    } else {
+                        cout << "Your answer: " << response << " Wrong" << endl;
+                        cout << "Correct answer: " << data[qIndex]["answer"] << endl;
                     }
                     leaderboard.display();
                     cout << endl;
