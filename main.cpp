@@ -206,6 +206,11 @@ class LeaderBoard {
                     }
                     cout << "Enter your Answer: ";
                     cin >> response;
+                    while (!(cin >> response) || response < 0 || response > 4) {
+                        cout << "Invalid input. Try again: ";
+                        cin.clear();
+                        cin.ignore(10000, '\n');
+                    }
                     if (response == data[qIndex]["answer"]){
                         cout << "Your answer: "  << response << " Correct " << endl;
                         leaderboard.update_score(player);
